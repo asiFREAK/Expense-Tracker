@@ -1,4 +1,3 @@
 ## Expense Trackeing 
 
-Made while learning React 
-Tech GUn
+Made while learning React
